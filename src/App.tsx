@@ -6,19 +6,19 @@ export default function App() {
         <span
           className="absolute right-full top-0 mr-8"
           role="img"
-          aria-label="duck"
+          aria-label="otter"
         >
-          🦆
+          🦦
         </span>
-        <span role="img" aria-label="fox">
-          🦊
+        <span role="img" aria-label="chicken">
+          🐔
         </span>
         <span
           className="absolute left-full top-0 ml-8"
           role="img"
-          aria-label="otter"
+          aria-label="duck"
         >
-          🦦
+          🦆
         </span>
       </div>
     </div>
